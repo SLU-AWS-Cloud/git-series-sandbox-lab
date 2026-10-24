@@ -27,4 +27,9 @@ function logError(message) {
   return entry;
 }
 
-export { createLogEntry, logInfo, logWarn, logError };
+function logDebug(message) {
+  const entry = createLogEntry("DEBUG", message);
+  console.debug(`[${entry.timestamp}] DEBUG: ${entry.message}`);
+}
+
+export { createLogEntry, logInfo, logWarn, logError }; // Fixed a typo I just made
