@@ -10,7 +10,7 @@ Do not worry about breaking it — that's the point of Challenge 2.
 | 3 | _available_ | _available_ |
 | 4 | _available_ | _available_ |
 | 5 | _Denv_ | _IT_ |
-| 6 | _available_ | _available_ |
+| 6 | _Spidey_ | _Backend_ |
 | 7 | _available_ | _available_ |
 | 8 | _available_ | _available_ |
 | 9 | _available_ | _available_ |
