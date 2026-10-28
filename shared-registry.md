@@ -9,8 +9,8 @@ Do not worry about breaking it — that's the point of Challenge 2.
 | 2 | _available_ | _available_ |
 | 3 | _available_ | _available_ |
 | 4 | _available_ | _available_ |
-| 5 | _available_ | _available_ |
-| 6 | _available_ | _available_ |
+| 5 | Shaun Gerald | Cloud DevOps |
+| 6 | Rhino Garcia | BSIT |
 | 7 | _available_ | _available_ |
 | 8 | _available_ | _available_ |
 | 9 | _available_ | _available_ |
