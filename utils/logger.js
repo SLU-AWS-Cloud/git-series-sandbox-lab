@@ -8,7 +8,7 @@ function createLogEntry(level, message) {
     timestamp: new Date().toISOString(),
   };
 }
-
+//testing tagalog and english
 function logInfo(message) {
   const entry = createLogEntry("INFO", message);
   console.log(`[${entry.timestamp}] INFO: ${entry.message}`);
