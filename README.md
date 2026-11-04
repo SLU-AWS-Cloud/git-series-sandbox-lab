@@ -21,3 +21,4 @@ Just open `index.html` in a browser after cloning.
 
 See the companion **Student Hands-On Challenge Guide** for the 5 workshop challenges.
 
+- Workshop challenge started at 10/24/2026 14:30:52
