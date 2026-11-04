@@ -33,6 +33,7 @@ yarn-error.log*
 .env
 .env.local
 .env.*.local
+FACILITATOR.md
 
 # Dependency / build output (not used in this project, kept for safety)
 node_modules/

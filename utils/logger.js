@@ -1,5 +1,6 @@
 // utils/logger.js — small structured logger used as the target file
-// for the interactive-rebase challenge
+// for the interactive-rebase challenges
+//this is a comment (wow)
 
 function createLogEntry(level, message) {
   return {
@@ -8,7 +9,7 @@ function createLogEntry(level, message) {
     timestamp: new Date().toISOString(),
   };
 }
-
+//testing tagalog and english
 function logInfo(message) {
   const entry = createLogEntry("INFO", message);
   console.log(`[${entry.timestamp}] INFO: ${entry.message}`);
@@ -27,4 +28,9 @@ function logError(message) {
   return entry;
 }
 
-export { createLogEntry, logInfo, logWarn, logError };
+function logDebug(message) {
+  const entry = createLogEntry("DEBUG", message);
+  console.debug(`[${entry.timestamp}] DEBUG: ${entry.message}`);
+}
+
+export { createLogEntry, logInfo, logWarn, logError }; // Fixed a typo I just made
